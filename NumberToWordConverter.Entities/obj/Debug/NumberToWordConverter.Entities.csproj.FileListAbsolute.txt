@@ -1,0 +1,6 @@
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\bin\Debug\NumberToWordConverter.Entities.dll
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\bin\Debug\NumberToWordConverter.Entities.pdb
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\obj\Debug\NumberToWordConverter.Entities.csprojAssemblyReference.cache
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\obj\Debug\NumberToWordConverter.Entities.csproj.CoreCompileInputs.cache
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\obj\Debug\NumberToWordConverter.Entities.dll
+C:\D\NumberToWordConverter\NumberToWordConverter.Entities\obj\Debug\NumberToWordConverter.Entities.pdb

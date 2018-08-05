@@ -1,0 +1,9 @@
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\bin\Debug\NumberToWordConverter.Framework.dll
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\bin\Debug\NumberToWordConverter.Framework.pdb
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\bin\Debug\log4net.dll
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\bin\Debug\log4net.xml
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\obj\Debug\NumberToWordConverter.Framework.csprojAssemblyReference.cache
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\obj\Debug\NumberToWordConverter.Framework.csproj.CoreCompileInputs.cache
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\obj\Debug\NumberToWordConverter.Framework.csproj.CopyComplete
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\obj\Debug\NumberToWordConverter.Framework.dll
+C:\D\NumberToWordConverter\NumberToWordConverter.Framework\obj\Debug\NumberToWordConverter.Framework.pdb
